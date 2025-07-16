@@ -1,5 +1,4 @@
-I am an independent giving only FACTS of all sides, that's why the background is purple, and yes, by the same logic as stalinism being an offshoot of marxist communism, trumpism is an offshoot of classical fascism.
-Also, if you notice, as I am a bit of a history nerd. I, like many others noticed that almost every play he used to take power was one used by Hitler. (G.T.S. there are HUNDREDS of documentaries you can watch on how hitler too power, and you've lived through the
-documentary showing how trump took power)
-Now that he's in power he's diverted from Classical Fascim into what has been generally accepted as Trumpism, now you're all caught up, share this with people if you'd like to get the message to the few remaining trump followers,
-so maybe, just maybe, this country won't become a distopia people have to flee from.
+I am an independent giving only FACTS of all sides, that's why the background is purple, and yes, by the same logic as Stalinism being an offshoot of Marxist Communism, Trumpism is an offshoot of Classical Fascism .Also, if you've noticed, as I am a bit of a history nerd.
+I, like many others noticed that almost every play he used to take power was one used by Hitler. (G.T.S. there are HUNDREDS of documentaries you can watch on how hitler too power, and you've lived through the
+documentary showing how trump took power) Now that he's in power he's immideatly created an offshoot of Classical Fascism that has been generally accepted as Trumpism, now you're all caught up,
+share this with people if you'd like to get the message to the few remaining trump followers, so maybe, just maybe, this country won't become a distopia people have to flee from. I like living here, I don't want to live in fear.
