@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Government Ideologies Comparison</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background: #210030;
+        margin: 0;
+        padding: 2rem;
+        box-sizing: border-box;
+        color: #ffffff;
+    }
+    h1 {
+        text-align: center;
+        margin-bottom: 1rem;
+    }
+    .infographic {
+        max-width: 100%;
+        aspect-ratio: 16 / 9;
+        overflow-x: auto;
+        background: #1a1a1a;
+        padding: 1rem;
+        border-radius: 10px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    }
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        font-size: 0.9rem;
+    }
+    th, td {
+        border: 1px solid #ccc;
+        padding: 0.75rem;
+        vertical-align: top;
+        text-align: left;
+    }
+    th {
+        background-color: #505050;
+        font-weight: bold;
+    }
+    tr:nth-child(even) td {
+        background-color: #272727;
+    }
+    @media screen and (max-width: 768px) {
+        table {
+            font-size: 0.8rem;
+        }
+    }
+</style>
+</head>
+<body>
+  <h1>Government Ideologies Comparison</h1>
+  <div class="infographic">
+    <table>
+      <thead>
+        <tr>
+          <th>Feature</th>
+          <th>Democracy (Conservative)</th>
+          <th>Democracy (Progressive)</th>
+          <th>Trumpism</th>
+          <th>Classical Fascism</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Basic Definition</td>
+          <td>Elected leaders; traditional values; limited government</td>
+          <td>Elected leaders; reform & equality</td>
+          <td>Populist movement centered around Trump</td>
+          <td>Dictatorship, one-party rule, extreme nationalism</td>
+        </tr>
+        <tr>
+          <td>Leader Power</td>
+          <td>Limited by laws & institutions</td>
+          <td>Limited by laws & institutions</td>
+          <td>Strong personal loyalty to leader</td>
+          <td>Total control by dictator</td>
+        </tr>
+        <tr>
+          <td>Rule of Law</td>
+          <td>Courts respected, elections matter</td>
+          <td>Courts respected, elections matter</td>
+          <td>Undermines courts, questions elections</td>
+          <td>Courts manipulated or abolished</td>
+        </tr>
+        <tr>
+          <td>Free Press</td>
+          <td>Criticized, but protected</td>
+          <td>Valued and protected</td>
+          <td>Often called "fake news"</td>
+          <td>Censored or state-controlled</td>
+        </tr>
+        <tr>
+          <td>Civil Rights</td>
+          <td>Supports basic rights, cautious on expansions</td>
+          <td>Promotes expanded rights (LGBTQ+, race, gender, etc.)</td>
+          <td>Mixed record, restricts some freedoms</td>
+          <td>Severely restricted or eliminated</td>
+        </tr>
+        <tr>
+          <td>Nationalism</td>
+          <td>Patriotism with global cooperation</td>
+          <td>International cooperation valued</td>
+          <td>Extreme nationalism, "America First"</td>
+          <td>Hyper-nationalism; glorification of the state</td>
+        </tr>
+        <tr>
+          <td>Immigration Policy</td>
+          <td>Strict borders, slow immigration</td>
+          <td>Inclusive, compassionate policies</td>
+          <td>Strong anti-immigration stance</td>
+          <td>Often racist and exclusionary</td>
+        </tr>
+        <tr>
+          <td>Minority Rights</td>
+          <td>Basic protections, opposes "special treatment"</td>
+          <td>Actively protects minority groups</td>
+          <td>Often targets or marginalizes minorities</td>
+          <td>Systematic oppression or violence</td>
+        </tr>
+        <tr>
+          <td>Violence & Intimidation</td>
+          <td>Rejected in political life</td>
+          <td>Rejected in political life</td>
+          <td>Some tolerance of violent rhetoric or actions</td>
+          <td>Used as a tool of control</td>
+        </tr>
+        <tr>
+          <td>Military & Police Role</td>
+          <td>Supported under civilian oversight</td>
+          <td>Advocates reform and accountability</td>
+          <td>"Law and Order" focus, glorifies enforcement</td>
+          <td>Central to regime power</td>
+        </tr>
+        <tr>
+          <td>Attitude Toward Opposition</td>
+          <td>Accepted as normal part of democracy</td>
+          <td>Necessary for democratic health</td>
+          <td>Often framed as enemies or threats</td>
+          <td>Silenced or criminalized</td>
+        </tr>
+        <tr>
+          <td>Civic Engagement</td>
+          <td>Traditional voting, town halls</td>
+          <td>Activism, protest, community organizing</td>
+          <td>Loyalty-driven engagement</td>
+          <td>Discouraged or restricted</td>
+        </tr>
+        <tr>
+          <td>Use of Propaganda</td>
+          <td>Minimal, diverse media</td>
+          <td>Minimal, diverse media</td>
+          <td>Heavy use of slogans and misinformation</td>
+          <td>Extreme propaganda; state messaging only</td>
+        </tr>
+        <tr>
+          <td>Public Institutions & Services</td>
+          <td>Supports services, leans privatization</td>
+          <td>Expands public programs (education, healthcare, etc.)</td>
+          <td>Cuts or dismantles public benefits (OSHA, Medicaid, etc.)</td>
+          <td>Programs serve state ideology or military goals</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</body>
+</html>
+
